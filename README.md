@@ -13,4 +13,4 @@ This code covers the very basics concepts of Spring Boot.
 * Good practices of Layered Architecture
 
 ### Dataflow
-![image](./src/main/resources/static/images/Screenshot 2021-01-10 at 14.03.31.png?raw=true "Dataflow Image")
+![image](https://raw.githubusercontent.com/hesller/spring-boot-introduction/main/src/main/resources/static/images/Screenshot%202021-01-10%20at%2014.03.31.png)

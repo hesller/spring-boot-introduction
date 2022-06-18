@@ -5,7 +5,7 @@ This code covers the very basics concepts of Spring Boot.
 ### Main Topics covered:
 * Spring Boot Web
 * Spring Data JPA
-* Hi
+* Hibernate
 * Annotations
 * API Layer
 * Business Layer
